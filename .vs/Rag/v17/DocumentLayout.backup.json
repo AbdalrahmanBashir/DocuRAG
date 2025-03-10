@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naksh\\source\\repos\\Rag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|c:\\users\\naksh\\source\\repos\\rag\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|c:\\users\\naksh\\source\\repos\\rag\\api\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|solutionrelative:api\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|c:\\users\\naksh\\source\\repos\\rag\\api\\data\\documents\\dec77e85-4576-49fd-be36-6e3f4bdbedf1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|solutionrelative:api\\data\\documents\\dec77e85-4576-49fd-be36-6e3f4bdbedf1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|c:\\users\\naksh\\source\\repos\\rag\\api\\data\\documents\\a513d652-eb20-4950-9091-c01a41afa1c6.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|solutionrelative:api\\data\\documents\\a513d652-eb20-4950-9091-c01a41afa1c6.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|c:\\users\\naksh\\source\\repos\\rag\\api\\data\\documents\\2180e032-efe2-4a16-aab1-44a831b6d701.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|solutionrelative:api\\data\\documents\\2180e032-efe2-4a16-aab1-44a831b6d701.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|c:\\users\\naksh\\source\\repos\\rag\\api\\cache\\embeddings\\embedding_ikmynozzfuwvjv3jcgj4wzg5q3rj\u002Bmjnndrzxblgzoi=.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|solutionrelative:api\\cache\\embeddings\\embedding_ikmynozzfuwvjv3jcgj4wzg5q3rj\u002Bmjnndrzxblgzoi=.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|c:\\users\\naksh\\source\\repos\\rag\\infrastructure\\services\\ollamaembeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\ollamaembeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|c:\\users\\naksh\\source\\repos\\rag\\infrastructure\\services\\pdfprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\pdfprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|c:\\users\\naksh\\source\\repos\\rag\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|c:\\users\\naksh\\source\\repos\\rag\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|c:\\users\\naksh\\source\\repos\\rag\\infrastructure\\services\\ollamaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\ollamaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|c:\\users\\naksh\\source\\repos\\rag\\infrastructure\\persistence\\filebackeddocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\filebackeddocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF338D88-1E28-4C31-BD56-8AA96DEE7F38}|Domain\\Domain.csproj|c:\\users\\naksh\\source\\repos\\rag\\domain\\models\\ollamasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF338D88-1E28-4C31-BD56-8AA96DEE7F38}|Domain\\Domain.csproj|solutionrelative:domain\\models\\ollamasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|c:\\users\\naksh\\source\\repos\\rag\\infrastructure\\services\\textchunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\textchunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|c:\\users\\naksh\\source\\repos\\rag\\application\\features\\documents\\searchdocuments\\searchdocumentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|solutionrelative:application\\features\\documents\\searchdocuments\\searchdocumentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|c:\\users\\naksh\\source\\repos\\rag\\application\\features\\documents\\processdocument\\processdocumentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|solutionrelative:application\\features\\documents\\processdocument\\processdocumentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|c:\\users\\naksh\\source\\repos\\rag\\api\\swagger\\swaggerfileoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|solutionrelative:api\\swagger\\swaggerfileoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|c:\\users\\naksh\\source\\repos\\rag\\api\\healthchecks\\ollamahealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|solutionrelative:api\\healthchecks\\ollamahealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|c:\\users\\naksh\\source\\repos\\rag\\infrastructure\\services\\documentcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\documentcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|c:\\users\\naksh\\source\\repos\\rag\\infrastructure\\services\\paralleldocumentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\paralleldocumentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|c:\\users\\naksh\\source\\repos\\rag\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B8C9B75-FB2D-421C-81D0-89A3B111E01B}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|c:\\users\\naksh\\source\\repos\\rag\\infrastructure\\services\\cachedembeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\cachedembeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|c:\\users\\naksh\\source\\repos\\rag\\infrastructure\\persistence\\inmemorydocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D2BB6-1867-4F1D-8529-121DBF10C918}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\inmemorydocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|c:\\users\\naksh\\source\\repos\\rag\\application\\features\\documents\\searchdocuments\\searchdocumentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|solutionrelative:application\\features\\documents\\searchdocuments\\searchdocumentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|c:\\users\\naksh\\source\\repos\\rag\\application\\features\\documents\\processdocument\\processdocumentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|solutionrelative:application\\features\\documents\\processdocument\\processdocumentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|c:\\users\\naksh\\source\\repos\\rag\\application\\service\\ipdfprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|solutionrelative:application\\service\\ipdfprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|c:\\users\\naksh\\source\\repos\\rag\\application\\service\\iollamaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|solutionrelative:application\\service\\iollamaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|c:\\users\\naksh\\source\\repos\\rag\\application\\service\\iembeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|solutionrelative:application\\service\\iembeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|c:\\users\\naksh\\source\\repos\\rag\\application\\contracts\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D27E2B-B259-4326-AAE3-35AE0BD35501}|Application\\Application.csproj|solutionrelative:application\\contracts\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF338D88-1E28-4C31-BD56-8AA96DEE7F38}|Domain\\Domain.csproj|c:\\users\\naksh\\source\\repos\\rag\\domain\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF338D88-1E28-4C31-BD56-8AA96DEE7F38}|Domain\\Domain.csproj|solutionrelative:domain\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF338D88-1E28-4C31-BD56-8AA96DEE7F38}|Domain\\Domain.csproj|c:\\users\\naksh\\source\\repos\\rag\\domain\\models\\documentchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF338D88-1E28-4C31-BD56-8AA96DEE7F38}|Domain\\Domain.csproj|solutionrelative:domain\\models\\documentchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dec77e85-4576-49fd-be36-6e3f4bdbedf1.json",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\data\\documents\\dec77e85-4576-49fd-be36-6e3f4bdbedf1.json",
+              "RelativeDocumentMoniker": "Api\\data\\documents\\dec77e85-4576-49fd-be36-6e3f4bdbedf1.json",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\data\\documents\\dec77e85-4576-49fd-be36-6e3f4bdbedf1.json",
+              "RelativeToolTip": "Api\\data\\documents\\dec77e85-4576-49fd-be36-6e3f4bdbedf1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T05:26:02.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "a513d652-eb20-4950-9091-c01a41afa1c6.json",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\data\\documents\\a513d652-eb20-4950-9091-c01a41afa1c6.json",
+              "RelativeDocumentMoniker": "Api\\data\\documents\\a513d652-eb20-4950-9091-c01a41afa1c6.json",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\data\\documents\\a513d652-eb20-4950-9091-c01a41afa1c6.json",
+              "RelativeToolTip": "Api\\data\\documents\\a513d652-eb20-4950-9091-c01a41afa1c6.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T05:25:58.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2180e032-efe2-4a16-aab1-44a831b6d701.json",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\data\\documents\\2180e032-efe2-4a16-aab1-44a831b6d701.json",
+              "RelativeDocumentMoniker": "Api\\data\\documents\\2180e032-efe2-4a16-aab1-44a831b6d701.json",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\data\\documents\\2180e032-efe2-4a16-aab1-44a831b6d701.json",
+              "RelativeToolTip": "Api\\data\\documents\\2180e032-efe2-4a16-aab1-44a831b6d701.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T05:25:50.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "embedding_IKmyNOZZfUwVjv3JCGj4Wzg5q3rJ\u002BmjNNdRZXblGZoI=.json",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\cache\\embeddings\\embedding_IKmyNOZZfUwVjv3JCGj4Wzg5q3rJ\u002BmjNNdRZXblGZoI=.json",
+              "RelativeDocumentMoniker": "Api\\cache\\embeddings\\embedding_IKmyNOZZfUwVjv3JCGj4Wzg5q3rJ\u002BmjNNdRZXblGZoI=.json",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\cache\\embeddings\\embedding_IKmyNOZZfUwVjv3JCGj4Wzg5q3rJ\u002BmjNNdRZXblGZoI=.json",
+              "RelativeToolTip": "Api\\cache\\embeddings\\embedding_IKmyNOZZfUwVjv3JCGj4Wzg5q3rJ\u002BmjNNdRZXblGZoI=.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T05:25:42.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T02:32:31.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OllamaClient.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\OllamaClient.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\OllamaClient.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\OllamaClient.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\OllamaClient.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAAN0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:14:56.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OllamaSettings.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Domain\\Models\\OllamaSettings.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\OllamaSettings.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Domain\\Models\\OllamaSettings.cs",
+              "RelativeToolTip": "Domain\\Models\\OllamaSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:31:46.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\Controllers\\DocumentsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\DocumentsController.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\Controllers\\DocumentsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\DocumentsController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:37:26.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T03:29:26.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileBackedDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Persistence\\FileBackedDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\FileBackedDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Persistence\\FileBackedDocumentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\FileBackedDocumentRepository.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAADwv6UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:57:39.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:43:05.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PdfProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\PdfProcessingService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\PdfProcessingService.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\PdfProcessingService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\PdfProcessingService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:23:16.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OllamaEmbeddingService.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\OllamaEmbeddingService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\OllamaEmbeddingService.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\OllamaEmbeddingService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\OllamaEmbeddingService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:12:36.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TextChunkingService.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\TextChunkingService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\TextChunkingService.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\TextChunkingService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\TextChunkingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:27:05.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SearchDocumentsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Features\\Documents\\SearchDocuments\\SearchDocumentsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Documents\\SearchDocuments\\SearchDocumentsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Features\\Documents\\SearchDocuments\\SearchDocumentsQueryHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Documents\\SearchDocuments\\SearchDocumentsQueryHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:53:43.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OllamaHealthCheck.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\HealthChecks\\OllamaHealthCheck.cs",
+              "RelativeDocumentMoniker": "Api\\HealthChecks\\OllamaHealthCheck.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\HealthChecks\\OllamaHealthCheck.cs",
+              "RelativeToolTip": "Api\\HealthChecks\\OllamaHealthCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:38:57.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SwaggerFileOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\Swagger\\SwaggerFileOperationFilter.cs",
+              "RelativeDocumentMoniker": "Api\\Swagger\\SwaggerFileOperationFilter.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\Swagger\\SwaggerFileOperationFilter.cs",
+              "RelativeToolTip": "Api\\Swagger\\SwaggerFileOperationFilter.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:40:22.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T02:31:58.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProcessDocumentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Features\\Documents\\ProcessDocument\\ProcessDocumentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Documents\\ProcessDocument\\ProcessDocumentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Features\\Documents\\ProcessDocument\\ProcessDocumentCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Documents\\ProcessDocument\\ProcessDocumentCommandHandler.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:48:03.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ParallelDocumentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\ParallelDocumentProcessor.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ParallelDocumentProcessor.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\ParallelDocumentProcessor.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ParallelDocumentProcessor.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:22:39.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DocumentCleanupService.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\DocumentCleanupService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\DocumentCleanupService.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\DocumentCleanupService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\DocumentCleanupService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:20:29.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CachedEmbeddingService.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\CachedEmbeddingService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CachedEmbeddingService.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Services\\CachedEmbeddingService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CachedEmbeddingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:09:03.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InMemoryDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Persistence\\InMemoryDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\InMemoryDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Infrastructure\\Persistence\\InMemoryDocumentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\InMemoryDocumentRepository.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:05:27.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SearchDocumentsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Features\\Documents\\SearchDocuments\\SearchDocumentsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Documents\\SearchDocuments\\SearchDocumentsQuery.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Features\\Documents\\SearchDocuments\\SearchDocumentsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Documents\\SearchDocuments\\SearchDocumentsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:52:03.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProcessDocumentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Features\\Documents\\ProcessDocument\\ProcessDocumentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Documents\\ProcessDocument\\ProcessDocumentCommand.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Features\\Documents\\ProcessDocument\\ProcessDocumentCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Documents\\ProcessDocument\\ProcessDocumentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:45:02.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPdfProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Service\\IPdfProcessingService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\IPdfProcessingService.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Service\\IPdfProcessingService.cs",
+              "RelativeToolTip": "Application\\Service\\IPdfProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:43:03.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IOllamaClient.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Service\\IOllamaClient.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\IOllamaClient.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Service\\IOllamaClient.cs",
+              "RelativeToolTip": "Application\\Service\\IOllamaClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:42:15.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmbeddingService.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Service\\IEmbeddingService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\IEmbeddingService.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\Service\\IEmbeddingService.cs",
+              "RelativeToolTip": "Application\\Service\\IEmbeddingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:41:24.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DocumentChunk.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Domain\\Models\\DocumentChunk.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\DocumentChunk.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Domain\\Models\\DocumentChunk.cs",
+              "RelativeToolTip": "Domain\\Models\\DocumentChunk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:39:14.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Domain\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Domain\\Models\\Document.cs",
+              "RelativeToolTip": "Domain\\Models\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:38:33.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\contracts\\IDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Application\\contracts\\IDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\naksh\\source\\repos\\Rag\\Application\\contracts\\IDocumentRepository.cs",
+              "RelativeToolTip": "Application\\contracts\\IDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:34:42.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
