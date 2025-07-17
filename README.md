@@ -12,19 +12,6 @@ A .NET 8.0-based RAG system that leverages Ollama for document processing, embed
   - In-memory cache (24-hour duration)
   - File-based persistent cache with JSON storage
 
-### Performance & Reliability
-- Rate limiting (100 requests per minute per host)
-- Concurrent request handling with parallel document processing
-- Circuit breaker pattern for Ollama API resilience
-- Response compression (including HTTPS)
-- Configurable retry policies with exponential backoff
-
-### Monitoring & Observability
-- OpenTelemetry integration for distributed tracing
-- Health check endpoints with Ollama service verification
-- Structured logging with detailed operation tracking
-- Request/Response telemetry for API endpoints
-
 ## Prerequisites
 
 - .NET 8.0 SDK
@@ -146,11 +133,6 @@ Returns the health status of the application and Ollama service.
 
 ## Performance Tuning
 
-### Rate Limiting
-- Global rate limit: 100 requests per minute per host
-- Configurable window and permit limits
-- Queue management for request handling
-
 ### Caching Strategy
 - In-memory cache with 24-hour duration
 - File-based persistent cache with JSON storage
@@ -168,12 +150,6 @@ Returns the health status of the application and Ollama service.
 - Ollama service connectivity check
 - Embedding generation validation
 - Storage system accessibility
-
-### Telemetry
-- Request/Response logging
-- Operation timing metrics
-- Error tracking and reporting
-- OpenTelemetry integration
 
 ## Production Deployment
 
@@ -209,7 +185,7 @@ Returns the health status of the application and Ollama service.
 
 MIT License
 
-Copyright (c) 2024 DocuRAG
+Copyright (c) 2025 DocuRAG
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
